@@ -43,5 +43,3 @@ struct LandmarkList_Previews: PreviewProvider {
             .environmentObject(ModelData())
     }
 }
-
-// Some comment to check gitclient in Xcode
